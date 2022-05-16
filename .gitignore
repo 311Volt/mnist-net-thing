@@ -1,0 +1,7 @@
+obj/*
+*.depend
+*.layout
+bin/allegro.log
+bin/*.exe
+build
+deps
